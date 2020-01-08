@@ -17,7 +17,7 @@ USTC Minecraft 12 周目白名单
   }
 ```
 点击文件列表里面的 whitelist.json, 进入页面之后, 在右上角有一个笔的按钮 (如图中红圈所示), 点击进去就可以编辑了.
-![help](help.png)
+![help](./help.png)
 将上面这一段按要求填完后, 插入到 whitelist.json 里面最后一个右中括号前. 并提交 Pull request.
 
 ### UUID 的获取
