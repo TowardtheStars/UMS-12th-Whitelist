@@ -23,6 +23,7 @@ USTC Minecraft 12 周目白名单
 将上面这一段复制到到 whitelist.json 里面最后一个右中括号前, 并按要求填完. 并点击下图中的按钮, 提交 Pull request.
 ![helper_pr](helper_pr.png)
 
+当然, 也可以直接把 UUID 和游戏 ID 发给管理员, 让管理员添加白名单.
 
 ### UUID 的获取
 
