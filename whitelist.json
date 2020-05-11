@@ -198,5 +198,9 @@
   {
     "uuid": "ebceaec7-07fb-43f0-932e-2e7fe9a78e2e",
     "name": "Hydrman"
+  },
+  {
+    "uuid": "dba8b4f1-e591-43e9-ac87-bca7f3a8f8e4.dat",
+    "name": "open_cluster"
   }
 ]
